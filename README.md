@@ -35,8 +35,8 @@ There is 30 seconds intro video under project videos folder
 
 6. **Youtube Videos**
 
-	- [3 minutes long video](https://youtu.be/WgQTELl5twk)
-    - [30 seconds long video](https://youtu.be/gxsNtbIP9C0)
+	- [3 minutes video](https://youtu.be/WgQTELl5twk)
+    - [30 seconds video](https://youtu.be/gxsNtbIP9C0)
 
 
 ## Data Download
