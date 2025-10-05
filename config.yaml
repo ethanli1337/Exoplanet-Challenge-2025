@@ -1,0 +1,12 @@
+batch_size: 4
+learning_rate: 0.001
+epochs: 10
+model_save_path: "./models"
+model_name: "exoplanet_resnet_acc_"
+data_path: "./koi_data"
+validation_split: 0.2
+stop_loss: 0.0001  # Optional early stopping loss threshold
+weight_decay: 1e-5
+log_dir: "exoplanet"
+train: True
+fresh_start: True
